@@ -1,0 +1,86 @@
+{
+    "13018263": {
+        "count": 7755,
+        "description": "Värde, gatunamn"
+    },
+    "13018264": {
+        "count": 7188,
+        "description": "Fastställd av"
+    },
+    "13018265": {
+        "count": 7225,
+        "description": "Tidpunkt - fastställd"
+    },
+    "13018267": {
+        "count": 160,
+        "description": "Kategori - gatunamn"
+    },
+    "13018275": {
+        "count": 7755,
+        "description": "Status - gatunamn"
+    },
+    "13018419": {
+        "count": 810,
+        "description": "Webblänk Wikipedia - url"
+    },
+    "13018640": {
+        "count": 14,
+        "description": "Litteratur - beskriven i"
+    },
+    "13018696": {
+        "count": 1366,
+        "description": "Tidpunkt - ändring"
+    },
+    "13018877": {
+        "count": 322,
+        "description": "Ortnamn - kopplad till"
+    },
+    "158": {
+        "count": 1016,
+        "description": "Sakord"
+    },
+    "1775956": {
+        "count": 37,
+        "description": "Webblänk - url"
+    },
+    "239": {
+        "count": 4978,
+        "description": "Beskrivning"
+    },
+    "241": {
+        "count": 3,
+        "description": "Litteraturhänvisning"
+    },
+    "267": {
+        "count": 433,
+        "description": "Diarienummer"
+    },
+    "3280497": {
+        "count": 5,
+        "description": "Riksantikvarieämbetets fornsök, http - url"
+    },
+    "349": {
+        "count": 453,
+        "description": "Namn - ämne"
+    },
+    "367": {
+        "count": 6201,
+        "description": "X-koordinat/latitud - i rikets nät"
+    },
+    "368": {
+        "count": 6201,
+        "description": "Y-koordinat/longitud - i rikets nät"
+    },
+    "431": {
+        "count": 503,
+        "description": "Kommun"
+    },
+    "471": {
+        "count": 7680,
+        "description": "Stadsdel"
+    },
+    "550": {
+        "count": 5439,
+        "description": "Arkivreferens - text"
+    }
+}
